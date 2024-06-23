@@ -1,0 +1,44 @@
+h1 {
+  margin-bottom: 8px;
+  color: #101928;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.row  {
+  margin-bottom: 24px;
+}
+
+label {
+  font-size: 14px;
+  color: #101928;
+  line-height: 24px;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+input {
+  border: solid 1px #D0D5DD;
+  height: 36px;
+  border-radius: 6px;
+  outline: none;
+  padding: 0 8px;
+  width: 500px;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  color: #fff;
+  background: #EB5017;
+  border-radius: 8px;
+  margin-left: 16px;
+  height: 36px;
+  padding: 0 16px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
